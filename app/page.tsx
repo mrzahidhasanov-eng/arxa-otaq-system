@@ -1,1 +1,0 @@
-export default function Home() { return ( <div style={{ padding: "40px", textAlign: "center", backgroundColor: "#000", color: "#fff", height: "100vh", fontFamily: "sans-serif" }}> <h1>ARXA OTAQ CORE ENGINE</h1> <p>Sistem Uğurla Aktivləşdirildi!</p> </div> ); }
